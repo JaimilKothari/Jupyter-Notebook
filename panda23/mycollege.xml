@@ -1,0 +1,33 @@
+<!-- xml -> extendible markup language -->
+<college>  
+    <student>
+        <id> 1 </id>
+        <name> KHUSHI </name>
+        <per> 99 </per>
+    </student>
+    <student>
+        <id> 2 </id>
+        <name> MAITRI </name>
+        <per> 98 </per>
+    </student>
+     <student>
+        <id> 3 </id>
+        <name> DHVANI </name>
+        <per> 97 </per>
+    </student>
+     <student>
+        <id> 4 </id>
+        <name> JAIMIL </name>
+        <per> 100 </per>
+    </student>
+     <student>
+        <id> 5 </id>
+        <name> AISHVI </name>
+        <per> 96 </per>
+    </student>
+     <student>
+        <id> 6 </id>
+        <name> SAHITYA </name>
+        <per> 95 </per>
+    </student>  
+</college>

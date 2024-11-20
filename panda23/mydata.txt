@@ -1,0 +1,11 @@
+,first,last,email,college,per,grade
+0,yash,patel,yash@gmail.com,changa,90,aa
+1,manav,shah,manav@gmail.com,svit,80,bb
+2,poojan,patel,poojan@gmail.com,changa,70,cc
+3,arpit,shah,arpit@gmail.com,iti,20,aa
+4,juzer,doshi,juzer@gmail.com,svit,46,aa
+5,ishan,doshi,ishan@gmail.com,nirma,82,bb
+6,shubham,patel,shubham@gmail.com,svit,67,dd
+7,parth,patel,parth@gmail.com,changa,94,aa
+8,naughty,patel,kush@gmail.com,svit,58,cc
+9,kush,patel,abhishek@gmail.com,changa,91,aa
